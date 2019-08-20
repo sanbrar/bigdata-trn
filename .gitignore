@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#twiter credentials
+twitterCrediantials.py
+
 # Distribution / packaging
 .Python
 build/

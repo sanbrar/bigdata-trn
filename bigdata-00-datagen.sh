@@ -15,7 +15,8 @@ export DSS_PATH=/bigdata/emrdata
 
 #Redshift data
 export DSS_PATH=/bigdata/redshiftdata
-./dbgen -v -T o -s 40
+./dbgen -v -T o -s 500
+
 
 #Split redshift data
 cd /big_data/redshiftdata
